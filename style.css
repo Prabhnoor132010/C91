@@ -1,0 +1,13 @@
+.body{
+    text-align: center;
+    background-color: cyan;
+}
+
+#output{
+    background-color: rgb(252, 5, 5);
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
